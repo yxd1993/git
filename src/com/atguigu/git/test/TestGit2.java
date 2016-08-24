@@ -6,5 +6,6 @@ public class TestGit2 {
 		
 		System.out.println("git2hello");
 		System.out.println("git master update01");
+		System.out.println("git2hello2");
 	}
 }
